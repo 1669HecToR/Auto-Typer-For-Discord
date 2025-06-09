@@ -23,6 +23,6 @@ _______________________________________________
 
 # running
 
-- [1] `cd Auto-Typer-For-Discord
+- [1] `cd Auto-Typer-For-Discord`
 
-- [2] `python AutoTyper`
+- [2] `python AutoTyper.py`
