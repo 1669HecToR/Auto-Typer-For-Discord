@@ -2,7 +2,7 @@
 -  اوتو للطباعين حقين الفري مايك 😂
 
 -  # HecToR
-*Disclaimer: I completely disclaim responsibility for using the tool to hack any server. The tool was created to hack Discord scammers and hack oppressors. I disclaim all responsibility for using the tool for evil.*
+*Disclaimer: I completely disclaim responsibility for using the tool .*
 _______________________________________________
 #  Setup
 
@@ -18,7 +18,7 @@ _______________________________________________
 
 - [6] `pip install -r requirements.txt`
 
-- [8] `python AutoTyper.py`
+- [7] `python AutoTyper.py`
 _______________________________________________
 
 # running
